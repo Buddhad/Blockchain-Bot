@@ -1,5 +1,5 @@
 # Blockchain-Bot
-Working on a `chat bot` that gonna provide the information about `Blockchain` Technology and `Bitcoin`.
+Build a `chat bot` that gonna provide the information about `Blockchain` Technology and `Bitcoin`.
 
 <br>
 
